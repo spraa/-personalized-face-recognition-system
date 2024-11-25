@@ -43,16 +43,3 @@ A project that leverages advanced machine learning algorithms to recommend movie
    - Generates and displays movie recommendations dynamically.  
 
 ---
-
-## 📂 Folder Structure  
-
-```plaintext  
-Movie-Recommendation-System   
-│  
-├── Scripts  
-│   ├── recommendation.py     # Recommendation logic  
-│   ├── preprocess.py         # Data preprocessing script  
-│  
-├── App  
-│   ├── app.py                # Flask application script  
-│
